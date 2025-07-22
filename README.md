@@ -1,4 +1,4 @@
-# kyberswap-poc
+# kyberswap-swap-example
 
 > **Disclaimer**: This code is provided for reference purposes only. It is not intended for production use and comes with no warranties or guarantees. Please ensure proper testing and security audits before using any code in a production environment.
 
